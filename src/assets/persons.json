@@ -11026,5 +11026,20 @@
         "state": "Wisconsin",
         "country": "United States of America"
       }
+      {
+      "id": 783,
+      "name": "Mannawar Hussain",
+      "img": "",
+      "links": {
+        "website": "https://github.com/mannawar",
+        "linkedin": "https://www.linkedin.com/in/mannawar-h-79650024/",
+        "github": "https://github.com/mannawar"
+      },
+      "jobTitle": "Software Developer",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      }
   ]
 }
